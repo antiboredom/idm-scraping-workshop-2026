@@ -1,6 +1,6 @@
 # Examples
 
-Here's a quick walkthrough on how to use the examples in the `scraping-examples` folder.
+Here's a quick walkthrough on how to use the examples.
 
 ## Prerequisites
 
